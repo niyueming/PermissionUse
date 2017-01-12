@@ -1,0 +1,3 @@
+[submodule "permissionLibrary"]
+	path = permissionLibrary
+	url = https://niyueming@github.com/niyueming/permissionLibrary.git
